@@ -9,10 +9,15 @@ This repository is dedicated to exploring and implementing techniques in Natural
 Natural Language Processing combines computational linguistics—rule-based modeling of human language—with statistical, machine learning, and deep learning models. These approaches enable computers to process and understand human (natural) languages, making it possible to execute tasks like translation, sentiment analysis, and topic extraction. NLP technologies are behind the scenes of many applications we use daily, such as virtual assistants, chatbots, and language translation services.
 
 ## Repository Contents
+### Decoding_Algorithms
 
-- **Transformers from Scratch.ipynb**: A detailed Jupyter notebook that introduces the concept, architecture, and implementation of transformer models from the ground up. This notebook serves as a comprehensive guide for anyone looking to understand the workings of one of the most influential models in modern NLP.
+- **Decoding Algorithms in NLP**: A Jupyter notebook that delves into the decoding strategies used in natural language processing. It covers Greedy, Beam Search, Pure Sampling, Top-K Sampling, and Top-P (Nucleus) Sampling methods, providing a mix of theoretical background, code implementations, and visual examples to demonstrate each decoding technique's impact on text generation.
+
+- **Understanding Positional Encoding**: This notebook provides an in-depth look at positional encoding mechanisms and their significance in language models, particularly in Transformers. It delves into Sinusodial Positional Encodings, Rotary Positional Embeddings (RoPE), ALiBi (Attention with Linear Biases) methods.
 
 ### Coming Soon
+
+- **Transformers from Scratch (DRAFT)**: A detailed Jupyter notebook that introduces the concept, architecture, and implementation of transformer models from the ground up. This notebook serves as a comprehensive guide for anyone looking to understand the workings of one of the most influential models in modern NLP.
 
 - **Named Entity Recognition (NER)**: A Jupyter notebook that explores the identification and classification of named entities in text into predefined categories such as the names of persons, organizations, locations, expressions of times, quantities, monetary values, percentages, etc.
 - **Fine Tuning**: A guide on how to fine-tune pre-trained models on domain-specific tasks for improved performance.
