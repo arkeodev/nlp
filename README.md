@@ -15,11 +15,12 @@ Natural Language Processing combines computational linguistics—rule-based mode
 
 - **Understanding Positional Encoding**: This notebook provides an in-depth look at positional encoding mechanisms and their significance in language models, particularly in Transformers. It delves into Sinusodial Positional Encodings, Rotary Positional Embeddings (RoPE), ALiBi (Attention with Linear Biases) methods.
 
+- **Embeddings**: This section explores the transformative world of embeddings in natural language processing, detailing both word-based and context-based embedding models. Through practical examples and code snippets, it elucidates how embeddings capture semantic and syntactic nuances of language, significantly enhancing the machine's understanding of text.
+
 ### Coming Soon
 
 - **Transformers from Scratch (DRAFT)**: A detailed Jupyter notebook that introduces the concept, architecture, and implementation of transformer models from the ground up. This notebook serves as a comprehensive guide for anyone looking to understand the workings of one of the most influential models in modern NLP.
 
-- **Named Entity Recognition (NER)**: A Jupyter notebook that explores the identification and classification of named entities in text into predefined categories such as the names of persons, organizations, locations, expressions of times, quantities, monetary values, percentages, etc.
 - **Fine Tuning**: A guide on how to fine-tune pre-trained models on domain-specific tasks for improved performance.
 - And more topics that delve deeper into the vast field of NLP.
 
