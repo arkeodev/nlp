@@ -17,6 +17,8 @@ Natural Language Processing combines computational linguistics—rule-based mode
 
 - **Embeddings**: This section explores the transformative world of embeddings in natural language processing, detailing both word-based and context-based embedding models. Through practical examples and code snippets, it elucidates how embeddings capture semantic and syntactic nuances of language, significantly enhancing the machine's understanding of text.
 
+- **Tokenisation**: A Jupyter notebook that explores the fundamentals of tokenization in NLP, addressing its critical role in preprocessing textual data, overcoming multilingual challenges, various tokenization techniques, and practical applications.
+
 ### Coming Soon
 
 - **Transformers from Scratch (DRAFT)**: A detailed Jupyter notebook that introduces the concept, architecture, and implementation of transformer models from the ground up. This notebook serves as a comprehensive guide for anyone looking to understand the workings of one of the most influential models in modern NLP.
