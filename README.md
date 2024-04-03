@@ -19,7 +19,7 @@ Natural Language Processing combines computational linguistics—rule-based mode
 
 - **Tokenisation**: A Jupyter notebook that explores the fundamentals of tokenization in NLP, addressing its critical role in preprocessing textual data, overcoming multilingual challenges, various tokenization techniques, and practical applications.
 
-- **Transformers from Scratch (DRAFT)**: A detailed Jupyter notebook that introduces the concept, architecture, and implementation of transformer models from the ground up. This notebook serves as a comprehensive guide for anyone looking to understand the workings of one of the most influential models in modern NLP.
+- **Transformers from Scratch**: A detailed Jupyter notebook that introduces the concept, architecture, and implementation of transformer models from the ground up. This notebook serves as a comprehensive guide for anyone looking to understand the workings of one of the most influential models in modern NLP.
 
 ### Coming Soon
 
