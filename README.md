@@ -21,6 +21,8 @@ Natural Language Processing combines computational linguistics—rule-based mode
 
 - **Transformers from Scratch**: A detailed Jupyter notebook that introduces the concept, architecture, and implementation of transformer models from the ground up. This notebook serves as a comprehensive guide for anyone looking to understand the workings of one of the most influential models in modern NLP.
 
+- **Neural Machine Translation with LSTMs**: This Jupyter notebook introduces the principles and practical implementation of Neural Machine Translation using LSTM networks. It details the design and operation of seq2seq models with LSTM cells, providing a step-by-step guide to building, training, and evaluating an NMT system capable of translating between English and French. 
+
 ### Coming Soon
 
 - **Fine Tuning**: A guide on how to fine-tune pre-trained models on domain-specific tasks for improved performance.
