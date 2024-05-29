@@ -4,11 +4,8 @@ import json
 from IPython.display import display
 from ipywidgets import FileUpload
 
-# Navigate to the root
-repo_root = os.path.abspath('..')
-if repo_root not in sys.path:
-    sys.path.insert(0, repo_root)
-kaggle_json_path = repo_root + '/helpers/kaggle/kaggle.json'
+
+kaggle_json_path = './kaggle.json'
 
 def setup_kaggle_api(file_content):
     # Save the uploaded file
