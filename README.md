@@ -38,6 +38,15 @@ Natural Language Processing is a pivotal subfield of artificial intelligence foc
 - **01_Fine_Tuning.ipynb**: An introductory notebook providing an overview of the Hugging Face ecosystem and its capabilities.
 - **02_LoRA.ipynb**: A dive into the foundational libraries and how to evaluate NLP models using Hugging Face tools.
 
+### Transfer Learning
+- **transfer_learning.ipynb**: This notebook provides an in-depth exploration of transfer learning techniques, illustrating how pre-trained models can be adapted for new tasks with minimal training data.
+
+### Quantization
+- **01_data_types_and_downcasting.ipynb**: This notebook explores various data types that are used in Machine Learning weights and activities and demonstrates techniques for downcasting to optimize memory usage.
+- **02_linear_quantization.ipynb**: This notebook provides a detailed guide on linear quantization methods and their applications in machine learning.
+- **03_qlora.ipynb**: This notebook introduces QLoRA (Quantized Low-Rank Adaptation), explaining its principles and showcasing practical examples.
+-  **04_PRILoRA_GPTQ_GGML_GGUF_AWQ.ipynb**: This comprehensive notebook covers advanced quantization techniques, including PRILoRA, GPTQ, GGML, GGUF, and AWQ, with examples.
+
 ## Getting Started
 
 To dive into these notebooks:
@@ -53,6 +62,7 @@ This repository will cover a broad spectrum of NLP topics and techniques, includ
 
 - **Transformers**: Understanding the architecture and mechanics behind transformers, including self-attention mechanisms and positional encoding.
 - **Fine-Tuning**: Strategies for adapting pre-trained models to new tasks or datasets.
+- **Quantization**: Downcasting the models to provide efficient training and inference.
 - Various NLP tasks such as text classification, sentiment analysis, language modeling, etc.
 
 ## Conclusion
